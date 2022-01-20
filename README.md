@@ -11,8 +11,9 @@
   
   
   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paige1996&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paige1996&layout=compact&hide_border=true&theme=white)
 
+| <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paige1996&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="paige's github stats" /></a> | <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paige1996&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
   
   ## Platforms & Languages
@@ -39,5 +40,3 @@
 
 
 
-| <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paige1996&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="paige's github stats" /></a> | <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paige1996&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
