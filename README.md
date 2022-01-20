@@ -36,3 +36,8 @@
 </p>
 </div>
 </div>
+
+
+
+| <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paige1996&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="paige's github stats" /></a> | <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paige1996&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
