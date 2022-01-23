@@ -9,6 +9,8 @@
   Hi ✨ <br/><br/>
 </p>
   
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paige1996&langs_count=10&hide=html%20notebook&title_color=ff8f1d&text_color=5ba43c&layout=compact&hide_border=true&card_width=235)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paige1996&hide=commits&show_icons=true&icon_color=ff8f1d&theme=flag-india&hide_border=true&hide_title=true&hide_rank=true)
+  
   
 
 | <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paige1996&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="paige's github stats" /></a> | <a href="https://github.com/Paige1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paige1996&layout=compact&theme=buefy&hide_border=true" /></a> |
