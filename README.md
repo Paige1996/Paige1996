@@ -2,7 +2,7 @@
   <p>
   <a href="https://joojoolee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:eunjooleepaige@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eunjooleepaige@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eunjoo-lee-89865317a/" target="_blank"><img src="https://img.shields.io/badge/nmdkims-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eunjoo-lee-89865317a/" target="_blank"><img src="https://img.shields.io/badge/eunjoo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
